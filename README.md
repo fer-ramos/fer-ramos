@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, yo soy Fernanda Ramos</h1>
 <h3 align="center">Estoy aprendiendo a programar porque es mi pasión.</h3>
 
+<br>
+
 - 🌱 Actualmente estoy aprendiendo **VueJs**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
