@@ -5,6 +5,30 @@
 
 - 🌱 Actualmente estoy aprendiendo **VueJs**
 
+<br>
+
+¿Quién soy? Soy Fernanda Ramos, estoy aprendiendo a programar porque es lo que siempre me ha atraído, el poder crear algo desde tu propia perspectiva y que ningún trabajo sea igual a otro a pesar de llegar a la misma solución. 
+
+<br>
+
+¿De dónde eres? Provengo de una comuna rural llamada Pirque, ubicada en la Región Metropolitana, Chile. 
+
+<br>
+
+¿A qué te dedicas? Actualmente me encuentro terminando un Bootcamp de Front-End; en donde aplique conocimientos de HTML5, CSS, Bootsatrap, JavaScript y Vue JS. 
+
+<br>
+
+¿Cuál es mi formación? Me eduqué en un colegio científico humanista, luego decidí estudiar Estética Integral. Pasado los años decidí reinventarme y empecé a incursionar en lo que estoy actualmente, la programación. 
+
+<br>
+
+¿Por qué deberían contactarme? A pesar de que aún no tengo experiencia en el área dentro de un trabajo, si tengo cualidades necesarias que me permitirían incorporarme laboralmente. Entre ellas destaco mi flexibilidad para el trabajo en equipo, la perseverancia y paciencia para lograr el término de un proyecto; también poseo la capacidad de organizar y analizar cual debiese ser el plan de acción según sea el proyecto. 
+
+<br>
+
+¿Cómo y a través de qué medios me pueden contactar? Se pueden contactar conmigo a través de mi correo electrónico fer.ramos.b@gmail.com.
+
 
 <p align="left">
 </p>
